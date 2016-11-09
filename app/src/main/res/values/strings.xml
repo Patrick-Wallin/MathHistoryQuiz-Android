@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Math History Quiz</string>
+    <string name="question1">
+        Archimedes described it as
+        greater than 3 10/71 and less than 3 10/70.  Today that number is called
+    </string>
+    <string name="answer1">pi</string>
+    <string name="question2">
+        To what system was Leibnitz referring when he wrote this? I enclose an attempt
+        to devise a new numerical system. By basing it on the number 2 instead
+        of the number 10, I am able to write all
+        numbers in terms of 0 and 1.
+    </string>
+    <string name="answer2">binary system</string>
+    <string name="question3">
+        The development of differential and integral calculus is attributed to
+    </string>
+    <string name="answer3">Newton,Leibnitz</string>
+    <string name="question4">
+        The means of graphically representing functions of variables occurred with the introduction of coordinates by what mathematician?
+    </string>
+    <string name="answer4">Rene Descartes</string>
+    <string name="question5">
+        Who is this?
+    </string>
+    <string name ="answer5">Leonhard Euler</string>
+
+</resources>
